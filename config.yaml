@@ -1,0 +1,5 @@
+# See https://openmod.github.io/openmod-docs/devdoc/concepts/configuration.html
+# You can delete this file if you do not need a configuration
+database:
+  ConnectionStrings:
+    default: "Server=126.0.0.1; Database=TestPlugin; Port=3306; User=TestPlugin; Password=password_here"
